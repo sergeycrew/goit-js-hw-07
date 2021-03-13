@@ -1,0 +1,16 @@
+#gallery {
+  display: flex;
+}
+
+.item {
+  list-style: none;
+}
+
+.images {
+  box-sizing: border-box;
+  display: block;
+  margin: 10px;
+  border-radius: 10px;
+  width: 300px;
+  height: 200px;
+}

@@ -1,0 +1,7 @@
+{
+    "editor.linkedEditing": true,
+    "indentRainbow.excludedLanguages": [
+    
+        "plaintext"
+    ]
+}

@@ -1,0 +1,17 @@
+.wrap {
+  margin: 30px;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.link {
+  text-decoration: none;
+  color: black;
+}
+li {
+  margin: 20px;
+}
